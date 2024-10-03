@@ -50,9 +50,9 @@ After training, the model achieved satisfactory performance on the test set. Det
 ## How to Use
 Run the preprocessing step to process the dataset before training:
 
-    ```bash
-    python preprocess.py
-    ```
+```bash
+python preprocess.py
+```
 
 Train and evaluate the model:
 
